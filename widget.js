@@ -1,3 +1,5 @@
+alert("widget loaded")
+
 const box = document.createElement("div")
 box.innerText = "Hello from my widget!"
 box.style.position = "fixed"
