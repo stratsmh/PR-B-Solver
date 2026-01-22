@@ -7,6 +7,6 @@ box.style.bottom = "20px"
 box.style.right = "20px"
 box.style.padding = "12px"
 box.style.background = "black"
-box.style.color = "white"
+box.style.color = "black"
 
 document.body.appendChild(box)
